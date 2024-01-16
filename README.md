@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... in school
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... you don't
-###portfollio
+### portfollio
 
 
 
